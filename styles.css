@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+.class{
+	border:1px solid gray;
+	border-radius:5px;
+}
